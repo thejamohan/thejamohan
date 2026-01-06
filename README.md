@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/51/7a/0d/517a0d45a83f1f95c03c0cb757d201f6.jpg" alt="Banner" width="100%" 
-       style="max-height: 250px; object-fit: cover;" />
+  <img src="https://i.pinimg.com/736x/51/7a/0d/517a0d45a83f1f95c03c0cb757d201f6.jpg" alt="Banner" width="100%" height="300px"  />
 </p>
 <br/>
 
