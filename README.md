@@ -1,4 +1,8 @@
-![Banner](https://i.pinimg.com/736x/4b/fc/b7/4bfcb70f8a372a4a6db3d9481341386d.jpg)
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/4b/fc/b7/4bfcb70f8a372a4a6db3d9481341386d.jpg" alt="Banner" width="100%" />
+</p>
+
 
 <h1 align="center">👋Hi, I'm Theja Mohan</h1>
 <h3 align="center">Aspiring Software Engineer |  JAVA PROGRAMMER | DBMS | SQL | HTML & CSS | JAVASCRIPT</h3>
@@ -22,6 +26,19 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48"/>
 </p>
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:thejamohan23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/theja-sree-m-2b92102aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 
 
 <!--
