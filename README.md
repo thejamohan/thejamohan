@@ -1,11 +1,14 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4b/fc/b7/4bfcb70f8a372a4a6db3d9481341386d.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/51/7a/0d/517a0d45a83f1f95c03c0cb757d201f6.jpg" alt="Banner" width="100%" 
+       style="max-height: 250px; object-fit: cover;" />
 </p>
+<br/>
 
 
 <h1 align="center">👋Hi, I'm Theja Mohan</h1>
 <h3 align="center">Aspiring Software Engineer |  JAVA PROGRAMMER | DBMS | SQL | HTML & CSS | JAVASCRIPT</h3>
+<hr/>
 
 ## 🌟 About Me
 🎯 I’m a final-year student at KPR Institute of Engineering and Technology , Driven by a strong interest in software development.  
@@ -15,6 +18,7 @@
 🌐 Interested in full-stack development and modern web technologies.  
 
 🚀 Continuously improving technical skills to build scalable and impactful applications. 
+<hr/>
 
 ## 🛠️ Tech Expertise
 
@@ -26,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48"/>
 </p>
+<hr/>
 
 ## 🌍 Connect With Me
 
@@ -37,6 +42,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<hr/>
+<p align="center">
+💬 "Debug today, deploy tomorrow."
+</p>
+
 
 
 
