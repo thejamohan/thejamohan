@@ -4,10 +4,26 @@
 <h3 align="center">Aspiring Software Engineer |  JAVA PROGRAMMER | DBMS | SQL | HTML & CSS | JAVASCRIPT</h3>
 
 ## 🌟 About Me
-🎯 I’m a final-year student at KPR Institute of Engineering and Technology,Driven by a strong interest in software development.
-🧠 Enjoy solving logical problems and writing clean, well-structured code.
-🌐 Interested in full-stack development and modern web technologies.
-🚀 Continuously improving technical skills to build scalable and impactful applications.
+🎯 I’m a final-year student at KPR Institute of Engineering and Technology , Driven by a strong interest in software development.  
+
+🧠 Enjoy solving logical problems and writing clean, well-structured code.  
+
+🌐 Interested in full-stack development and modern web technologies.  
+
+🚀 Continuously improving technical skills to build scalable and impactful applications. 
+
+## 🛠️ Tech Expertise
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" width="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" width="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48"/>
+</p>
+
+
 <!--
 **thejamohan/thejamohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
