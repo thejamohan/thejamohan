@@ -1,4 +1,8 @@
-## Hi there 👋
+![Banner](https://i.pinimg.com/736x/4b/fc/b7/4bfcb70f8a372a4a6db3d9481341386d.jpg)
+
+<h1 align="center">Hi👋, I'm Theja Mohan</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer</h3>
+
 
 <!--
 **thejamohan/thejamohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
