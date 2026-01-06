@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Expertise
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java" title="Java" width="48"/>
   <img src="https://skillicons.dev/icons?i=html" title="HTML" width="48"/>
   <img src="https://skillicons.dev/icons?i=css" title="CSS" width="48"/>
